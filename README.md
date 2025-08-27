@@ -32,9 +32,6 @@ The data was first explored and prepared using SQL before analysis in Excel.
 👉 [View SQL Script](https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/sql/churn%20pred.sql)
 
   
----
-**Author:** Hara • [LinkedIn](#) • 
-
 
 ---
 **Author:** Hara • [LinkedIn](#) • [Portfolio](#)
