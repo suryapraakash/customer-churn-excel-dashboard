@@ -3,8 +3,8 @@
 **Business Goal:** Identify at-risk customers and reduce churn using an Excel-built model and stakeholder-friendly dashboard.
 
 ## 🔎 What’s inside
-- **Data (cleaned)** → https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/data/WA_Fn-UseC_-Telco-Customer-Churn.csv
-- **Excel Dashboard & Model** → [Open the file]https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/dashboard/cleaneed%20churn%20n.xlsx
+- **Data (cleaned)** →[open this file]( https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/data/WA_Fn-UseC_-Telco-Customer-Churn.csv)
+- **Excel Dashboard & Model** → [Open the file](https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/dashboard/cleaneed%20churn%20n.xlsx)
 - **Preview**  
   ![Dashboard](https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/visuals/cust%20sc.png)
 
