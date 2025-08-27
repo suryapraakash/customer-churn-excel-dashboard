@@ -6,7 +6,7 @@
 - **Excel Dashboard & Model** → [Open the file]https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/dashboard/cleaneed%20churn%20n.xlsx
 - **Data (cleaned)** → https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/data/WA_Fn-UseC_-Telco-Customer-Churn.csv
 - **Preview**  
-  ![Dashboard](./visuals/dashboard_screenshot.png)
+  ![Dashboard](https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/visuals/cust%20sc.png)
 
 ## 💡 Impact (Highlights)
 - Analyzed **7,043 customers**; built a **manual churn risk score** (logistic-style using Excel formulas).
