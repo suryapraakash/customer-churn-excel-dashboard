@@ -4,7 +4,7 @@
 
 ## 🔎 What’s inside
 - **Excel Dashboard & Model** → [Open the file](./dashboard/churn_dashboard.xlsx)
-- **Data (cleaned)** → [Open dataset](./data/churn_dataset.xlsx)
+- **Data (cleaned)** → https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/data/WA_Fn-UseC_-Telco-Customer-Churn.csv
 - **Preview**  
   ![Dashboard](./visuals/dashboard_screenshot.png)
 
