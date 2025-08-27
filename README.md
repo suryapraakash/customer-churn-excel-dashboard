@@ -29,7 +29,7 @@ The data was first explored and prepared using SQL before analysis in Excel.
 2. **Churn Rate Calculation** – calculate churn % by contract type and tenure.  
 3. **Segmentation Queries** – group customers by tenure.  
 
-👉 [View SQL Script](./sql/churn_analysis.sql)
+👉 [View SQL Script](https://github.com/suryapraakash/customer-churn-excel-dashboard/blob/main/sql/churn%20pred.sql)
 
   
 
