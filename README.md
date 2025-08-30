@@ -34,4 +34,4 @@ The data was first explored and prepared using SQL before analysis in Excel.
   
 
 ---
-**Author:** Hara • [LinkedIn](#) • [Portfolio](#)
+**Author:** Hara • [LinkedIn](https://www.linkedin.com/in/suryaprakashpalani/) 
